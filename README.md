@@ -28,4 +28,4 @@ All the code was run under Python 3.10.6. If using conda, our recommended settin
 ```
 
 ## Data Availability
-Cropped image data and trained parameters are available in the form of numpy arrays on Zenodo (https://doi.org/10.5281/zenodo.10369052), and ownership of all data is explicitly stated to belong to DR.NOAHBIOTECH.
+Cropped image data set is available in the form of numpy arrays on Zenodo (https://doi.org/10.5281/zenodo.10369052), and ownership of all data is explicitly stated to belong to DR.NOAHBIOTECH.
