@@ -1,5 +1,5 @@
 # NeuroRG
-This repository contains codes for evaluating the methodology with pretrained model introduced in the "NeuroRG(가제)" paper.
+This repository contains codes for evaluating the methodology with pretrained model introduced in the "NeuroRG(tentative title)" paper.
 
 ## Introduction
 This paper emphasizes the importance of understanding cell behavior in relation to the intricate connections between cellular morphology and phenotypic changes in response to stimuli. It introduces recent studies highlighting the relevance of morphological features in cancer cell tumorigenicity and microglial activation states, proposing a novel methodology to explore the complex relationship between subtle cellular changes and phenotypic irregularities.
@@ -21,4 +21,4 @@ All the code was run under Python 3.10.6. If using conda, our recommended settin
 ```
 
 ## Data Availability
-Cropped image data and trained parameters are available in the form of numpy arrays on Zenodo (+ URL need to be added), and ownership of all data is explicitly stated to belong to DR.NOAHBIOTECH.
+Cropped image data and trained parameters are available in the form of numpy arrays on Zenodo (https://doi.org/10.5281/zenodo.10369052), and ownership of all data is explicitly stated to belong to DR.NOAHBIOTECH.
