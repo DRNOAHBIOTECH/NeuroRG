@@ -10,7 +10,7 @@ The paper addresses recent advancements in microscopy and deep learning algorith
 <img width="100%" alt="Fig3" src="https://github.com/tempBiotech/RG/assets/118416128/abdf93ed-3f5b-4deb-b147-4ee192561c69">
 
 
-For the details, please visit our paper, "NeuroRG(가제)".
+For the details, please visit our paper, "NeuroRG(tentative title)".
 
 ## Setup
 All the code was run under Python 3.10.6. If using conda, our recommended settings are as follows:
