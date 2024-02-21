@@ -2,9 +2,9 @@
 This repository contains codes for evaluating the methodology with the model introduced in the "NeuroRG(tentative title)" paper.
 
 ## Introduction
-Understanding how cells look and behave is crucial, especially in the study of brain-related disorders. However, analyzing the shapes and characteristics of brain cells has been challenging. Even with advanced techniques like deep learning, there are obstacles such as needing a lot of labeled data, difficulty in spotting subtle changes in cells, and variations in experimental conditions. 
+A comprehensive comprehension of cellular morphology and behavior holds paramount importance, particularly in the examination of disorders associated with the brain. Nevertheless, the analysis of the configurations and attributes of brain cells has proven to be a formidable task. Despite the application of advanced methodologies such as deep learning, challenges persist, including the necessity for a substantial amount of labeled data, the intricacy of discerning subtle cellular changes, and variations in experimental conditions.
 
-Our research focuses on overcoming these challenges, specifically in the context of neuroinflammation (inflammation in the brain). We used our own data and a deep learning approach to effectively study the shapes of nerve and immune cells, both in unhealthy conditions and after using drugs. This new method helps us better understand neuroinflammation and makes it easier to test potential treatments, filling a gap in the study of brain disorders and the development of new drugs.
+Our research is dedicated to surmounting these challenges, specifically within the realm of neuroinflammation, an inflammatory process occurring in the brain. Leveraging proprietary data and employing a deep learning approach, we have successfully scrutinized the morphologies of both nerve and immune cells, both under pathological conditions and subsequent to pharmacological interventions. This innovative methodology enhances our understanding of neuroinflammation and facilitates the evaluation of potential treatments, thereby addressing a void in the exploration of brain disorders and the advancement of novel pharmaceuticals.
 
 ## Results
 ### Model & Accuracy
