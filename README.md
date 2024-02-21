@@ -2,10 +2,11 @@
 This repository contains codes for evaluating the methodology with the model introduced in the "NeuroRG(tentative title)" paper.
 
 ## Introduction
-This paper emphasizes the importance of understanding cell behavior in relation to the intricate connections between cellular morphology and phenotypic changes in response to stimuli. It introduces recent studies highlighting the relevance of morphological features in cancer cell tumorigenicity and microglial activation states, proposing a novel methodology to explore the complex relationship between subtle cellular changes and phenotypic irregularities.
+Understanding how cells look and behave is crucial, especially in the study of brain-related disorders. However, analyzing the shapes and characteristics of brain cells has been challenging. Even with advanced techniques like deep learning, there are obstacles such as needing a lot of labeled data, difficulty in spotting subtle changes in cells, and variations in experimental conditions. 
+
+Our research focuses on overcoming these challenges, specifically in the context of neuroinflammation (inflammation in the brain). We used our own data and a deep learning approach to effectively study the shapes of nerve and immune cells, both in unhealthy conditions and after using drugs. This new method helps us better understand neuroinflammation and makes it easier to test potential treatments, filling a gap in the study of brain disorders and the development of new drugs.
 
 <img width="100%" alt="Fig5" src="https://github.com/tempBiotech/RG/assets/118416128/a5fbd296-52a7-4044-8e21-02c7aeb3ffd1">
-The paper addresses recent advancements in microscopy and deep learning algorithms for biomedical image analysis, acknowledging the challenges faced in their practical applications. The study aims to overcome limitations in deep learning-based cellular image analysis by combining advanced techniques with microscopy and experiments to automatically generate a large dataset labeled with expert precision. This innovative approach eliminates the need for manual curation while maintaining model performance, allowing efficient assessment of dynamic cellular morphological changes, the degree of neuroinflammation, and the effects of potential pharmaceutical interventions.
 
 <img width="100%" alt="Fig3" src="https://github.com/tempBiotech/RG/assets/118416128/abdf93ed-3f5b-4deb-b147-4ee192561c69">
 
