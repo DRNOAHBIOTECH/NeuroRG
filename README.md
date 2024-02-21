@@ -1,5 +1,5 @@
 # NeuroRG
-This repository contains codes for evaluating the methodology with pretrained model introduced in the "NeuroRG(tentative title)" paper.
+This repository contains codes for evaluating the methodology with the model introduced in the "NeuroRG(tentative title)" paper.
 
 ## Introduction
 This paper emphasizes the importance of understanding cell behavior in relation to the intricate connections between cellular morphology and phenotypic changes in response to stimuli. It introduces recent studies highlighting the relevance of morphological features in cancer cell tumorigenicity and microglial activation states, proposing a novel methodology to explore the complex relationship between subtle cellular changes and phenotypic irregularities.
