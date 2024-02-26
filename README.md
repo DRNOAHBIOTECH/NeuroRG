@@ -20,7 +20,7 @@ Additionally, the above images convey information about a similarity analysis us
 For the details, please visit our paper, "NeuroRG(tentative title)".
 
 ## Setup
-Please download the .npy data hosted on Zenodo, reconfigure the data path in the src/driver.ipynb Jupyter notebook, and subsequently execute the notebook.
+Please download the image dataset saved in .npy format from Zenodo, reconfigure the data path in the src/driver.ipynb Jupyter notebook, and then execute the notebook.
 
 
 All the code was run under Python 3.10.6. If using conda, our recommended settings are as follows:
