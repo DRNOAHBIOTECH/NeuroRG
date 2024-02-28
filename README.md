@@ -1,5 +1,5 @@
 # NeuroRG
-This repository contains codes for evaluating the methodology with the model introduced in the "NeuroRG(tentative title)" paper.
+This repository contains codes for evaluating the methodology with the model introduced in the "NeuroRG(tentative title)" paper, focusing on the training and evaluation of the core ensemble analysis model.
 
 ## Introduction
 Comprehending the structure and behavior of cells is of paramount importance, particularly in the investigation of brain-related disorders. However, the analysis of the morphology and characteristics of brain cells poses significant challenges. Despite the utilization of advanced techniques such as deep learning, obstacles persist, including the requirement for substantial labeled data, the intricacy of detecting subtle cellular changes, and variations in experimental conditions.
