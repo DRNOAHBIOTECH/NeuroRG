@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dae6bf46-25fd-4052-a90e-61ce87b08c25)# NeuroRG
+# NeuroRG
 This repository contains codes for evaluating the methodology with the model introduced in the "Unveiling CNS Cell Morphology with Deep Learning: A Gateway to Anti-Inflammatory Compound Screening" paper, focusing on the training and evaluation of the core ensemble analysis model.
 
 ## Introduction
