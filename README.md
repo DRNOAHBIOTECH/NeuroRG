@@ -10,15 +10,13 @@ Our research is dedicated to overcoming these challenges, specifically within th
 Firstly, we propose a novel method to classify wells by dividing a single well into 15 images and classifying the well based on the ratios derived from each image. Secondly, we incorporate a modified Leave-One-Out Cross-Validation approach and an ensemble methodology to develop a model that accounts for batch effects across plates, the sample groups in this study.
 ### Model & Accuracy
 ![git_fig1](https://github.com/user-attachments/assets/154cc434-89fb-4a04-acc3-fc8f23b564a3)
-The above figures illustrate the accuracy benchmark metrics of the top-performing deep learning model and presents the image classification results for the 6 classes. This proposed framework demonstrates high performance in classifying wells. Moreover, statistical analysis of performance differences with and without the ensemble approach revealed significant improvement with ensemble models.
-
-### Model Comparison for Testing the Effect of Ensemble Approach
+The above figures illustrate the accuracy benchmark metrics of the top-performing deep learning model and presents the image classification results for the 6 classes. This proposed framework demonstrates high performance in classifying wells.
+### McNemar's Test for Model Comparision between Ensemble-based Model and Single Model
 ![git_fig2](https://github.com/user-attachments/assets/87fd48ad-6088-480b-bb5a-b26e9379c675)
 
-Notably, when analyzing the same samples, ensemble-based models correctly classified 32 samples exclusively, compared to just 1 sample for non-ensemble models. This substantial difference highlights the effectiveness of the ensemble approach in enhancing classification performance.
+Moreover, statistical analysis of performance differences with and without the ensemble approach revealed significant improvement with ensemble models. Notably, when analyzing the same samples, ensemble-based models correctly classified 32 samples exclusively, compared to just 1 sample for non-ensemble models. This substantial difference highlights the effectiveness of the ensemble approach in enhancing classification performance. 
 
-These results underscore the utility of the proposed framework and ensemble methodology in addressing the inherent challenges of analyzing brain cell morphologies under varied experimental conditions.
-
+These results underscore the utility of the proposed framework in addressing the inherent challenges of analyzing brain cell morphologies under varied experimental conditions.
 For the details, please visit our paper, "Unveiling CNS Cell Morphology with Deep Learning: A Gateway to Anti-Inflammatory Compound Screening".
 
 ## Setup
