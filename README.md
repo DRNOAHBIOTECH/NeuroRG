@@ -32,5 +32,4 @@ All the code was run under Python 3.10.6. If using conda, our recommended settin
 ```
 
 ## Data Availability
-Cropped image data set is available in the form of numpy arrays on Zenodo (https://doi.org/10.5281/zenodo.10369052), and ownership of all data is explicitly stated to belong to DR.NOAHBIOTECH.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10369052.svg)](https://doi.org/10.5281/zenodo.10369052)
+Cropped image data set is available in the form of numpy arrays on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10369052.svg)](https://doi.org/10.5281/zenodo.10369052), and ownership of all data is explicitly stated to belong to DR.NOAHBIOTECH.
