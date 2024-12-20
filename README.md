@@ -9,7 +9,7 @@ Our research is dedicated to overcoming these challenges, specifically within th
 ## Results
 Firstly, we propose a novel method to classify wells by dividing a single well into 15 images and classifying the well based on the ratios derived from each image. Secondly, we incorporate a modified Leave-One-Out Cross-Validation approach and an ensemble methodology to develop a model that accounts for batch effects across plates, the sample groups in this study.
 ### Model & Accuracy
-![git_fig1](https://github.com/user-attachments/assets/154cc434-89fb-4a04-acc3-fc8f23b564a3)
+![image](https://github.com/user-attachments/assets/3fe604f8-c8c4-4c2e-99fe-2a63a03ed6be)
 
 The above figures illustrate the accuracy benchmark metrics of the top-performing deep learning model and presents the image classification results for the 6 classes. This proposed framework demonstrates high performance in classifying wells.
 ### McNemar's Test for Model Comparision between Ensemble-based Model and Single Model
